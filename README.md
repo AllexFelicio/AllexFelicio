@@ -1,6 +1,6 @@
 ## Hi! I'm Alex Sander :man_technologist:
 
-- ⚙️:books: Computer Engineering student at Facens (8/10)
+- ⚙️:books: Computer Engineering student at Facens (9/10)
 
 ## Github Stats 💻
 <div align="center">
