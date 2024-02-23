@@ -1,6 +1,8 @@
 ## Hi! I'm Alex Sander :man_technologist:
 
-- ⚙️Engineer
+- 🎓 Computer engineer
+- 💻 fullstack developer
+- 🎲 I like board games
 
 ## Github Stats 💻
 <div align="center">
