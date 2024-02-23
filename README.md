@@ -1,12 +1,14 @@
 ## Hi! I'm Alex Sander :man_technologist:
 
-- ⚙️:books: Computer Engineering student at Facens (9/10)
+- ⚙️:books: Engineer
 
 ## Github Stats 💻
 <div align="center">
   <a href="https://github.com/AllexFelicio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllexFelicio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllexFelicio&layout=compact&langs_count=7&theme=dracula"/>
+  ## Github Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AllexFelicio&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Alex-c" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
