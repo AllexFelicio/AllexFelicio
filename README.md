@@ -4,6 +4,8 @@
 - 💻 fullstack developer
 - 🎲 I like board games
 
+  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
 ## Github Stats 💻
 <div align="center">
   <a href="https://github.com/AllexFelicio">
