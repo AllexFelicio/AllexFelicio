@@ -16,7 +16,11 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,nodejs,postgres,py,react,figma,git,vscode,visualstudio" />
   </a>
-</p>    
+</p> 
+
+<div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=AllexFelicio&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
   
   ##
  
